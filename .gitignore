@@ -1,2 +1,5 @@
-mods/*.jar
+*.jar
+*.zip
+
 .packwiz/
+!mods/*.pw.toml
