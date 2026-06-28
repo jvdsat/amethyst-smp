@@ -41,6 +41,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/guideme.pw.toml"
+hash = "012e69931380a8d5b73776d255292d7d4c2cd12089273807dda56f944568eba0"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
