@@ -1,0 +1,13 @@
+name = "L_Ender's Cataclysm"
+filename = "L_Ender's Cataclysm 1.21.1-3.31-optimaztion.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/46KJle7n/versions/axOt8N57/L_Ender%27s%20Cataclysm%201.21.1-3.31-optimaztion.jar"
+hash-format = "sha512"
+hash = "1f3e89794372f81ccc7c6f3b62354b79813ae412cf8bc9f2084760f60758d84f19d7da702d4f5a9707ca457a16be1e0f358e9204fe6241ec036e0239507893ae"
+
+[update]
+[update.modrinth]
+mod-id = "46KJle7n"
+version = "axOt8N57"
