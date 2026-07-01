@@ -271,6 +271,11 @@ hash = "f5e0874a456cf7b4d1cc48131810ad660f556b4d08bc050c5e89ddf5d167da66"
 metafile = true
 
 [[files]]
+file = "mods/openpac-bluemap-refreshed.pw.toml"
+hash = "625920dea8ca3e4471cf6e2cd5b1afac984dd01fde393ec10d3fdf48e9cd8e3d"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "2ccda92b6f9f4dae045fe05e57d3a1a4965b81e983006f17d75e83b464c240c9"
 metafile = true
@@ -278,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
 metafile = true
 
 [[files]]
