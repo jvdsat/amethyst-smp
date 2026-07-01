@@ -1,0 +1,78 @@
+# Server Modpack
+
+## Mod List
+
+- [ ] Advanced Backups
+- [ ] Alex's Caves (Unofficial Port)
+- [ ] Alternate Current
+- [ ] AppleSkin
+- [ ] Applied Energistics 2
+- [ ] BCLib Neoforge
+- [ ] BadOptimizations
+- [ ] BetterEnd Neoforge
+- [ ] Biomes O' Plenty
+- [ ] BlueMap
+- [ ] Chunky
+- [ ] Chunky Border
+- [ ] Citadel (Unofficial Port)
+- [ ] Clumps
+- [ ] Concurrent Chunk Management Engine (NeoForge)
+- [ ] CoreProtectNeo
+- [ ] Cubes Without Borders
+- [ ] Curios API
+- [ ] Deeper and Darker
+- [ ] EMI
+- [ ] Effortless Building
+- [ ] Embeddium
+- [ ] End Remastered
+- [ ] End's Delight
+- [ ] Entity Culling
+- [ ] Explorer's Compass
+- [ ] Farmer's Delight
+- [ ] FastFurnace
+- [ ] FastSuite
+- [ ] FastWorkbench
+- [ ] FerriteCore
+- [ ] Geckolib
+- [ ] GlitchCore
+- [ ] GuideME
+- [ ] ImmediatelyFast
+- [ ] Incendium
+- [ ] Iron's Lib
+- [ ] Iron's Spells 'n Spellbooks
+- [ ] Jade 🔍
+- [ ] L_Ender 's Cataclysm Delight
+- [ ] L_Ender's Cataclysm
+- [ ] Lightman's Currency
+- [ ] Lionfish-API
+- [ ] Lithium
+- [ ] Lithostitched
+- [ ] Lootr
+- [ ] LuckPerms
+- [ ] MES - Moog's End Structures
+- [ ] MKT Essentials
+- [ ] ModernFix
+- [ ] Moog's Structure Lib (moogs_structures)
+- [ ] My Nether's Delight
+- [ ] Nature's Compass
+- [ ] Ocean's Delight
+- [ ] Open Parties and Claims
+- [ ] OpenPaC BlueMap - Refreshed
+- [ ] Placebo
+- [ ] Remove Stardust Labs Intro Message
+- [ ] Resourceful Config
+- [ ] Simple Voice Chat
+- [ ] Sophisticated Core
+- [ ] Sophisticated Storage
+- [ ] Structure Layout Optimizer
+- [ ] Tectonic
+- [ ] TerraBlender
+- [ ] Terralith
+- [ ] Traveler's Backpack
+- [ ] WorldWeaver Neoforge
+- [ ] WunderLib Neoforge
+- [ ] Xaero's Minimap
+- [ ] Xaero's World Map
+- [ ] [UNOFFICIAL] TaCZ 1.21.1 NeoForge Port
+- [ ] playerAnimator
+- [ ] spark
