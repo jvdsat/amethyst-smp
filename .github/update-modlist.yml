@@ -1,0 +1,27 @@
+name: Update Modlist
+on:
+  push:
+    paths:
+      - 'mods/**/*.pw.toml' # Triggers when you change mod configs
+
+jobs:
+  update-modlist:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to allow the action to commit the change
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install toml
+      - name: Generate Modlist
+        run: python scripts/generate_modlist.py
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add MODLIST.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update MODLIST.md" && git push)
